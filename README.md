@@ -100,6 +100,10 @@ End-to-end user request pipeline:
 
 ---
 
+## 🎥 Demo Walkthrough
+
+<video src="./DEMO_VIDEO.mp4" controls width="100%"></video>
+
 ## Repository Structure
 
 ```text
